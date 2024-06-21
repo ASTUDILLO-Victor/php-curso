@@ -28,4 +28,8 @@ echo "<h3>".$year."</h3>";
 $age=55;
 echo $age."<br>";
 
-echo ($ege+=5);
+echo ($age += 5)."<br>"; 
+// lo que hace es asignar 5  mas a la variable original y se puede hacer lo mismo con cualquier operador aritmetico
+
+
+
